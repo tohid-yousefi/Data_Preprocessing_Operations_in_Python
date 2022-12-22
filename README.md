@@ -1,4 +1,4 @@
-# Data_Preprocessing_Operations_in_Python
+# Data Preprocessing Operations in Python
 In this section, you can see a summary of the operations related to data preprocessing in python.
 
 <hr />
@@ -70,3 +70,81 @@ In this section, you can see a summary of the operations related to data preproc
 * **Değişkeni İndexe, İndexi Değişkene Çevrimek**
 
 <hr />
+
+# Advanced Data Preprocessing Operations in Python
+In this section, you can see a summary of the operations related to advanced data preprocessing in python.
+
+<hr />
+
+## Outlier Analysis
+
+  * Important Functions for Outliers
+
+    1. Create a function to detect outliers
+
+    2. Are there outliers in the desired columns(create function)?
+
+    3. Creating a function to separate categorical and numerical variables
+
+    4. Are there outliers in the dataframe(create function)?
+
+    5. Outlier detection function
+
+  * Univariate Outlier Analysis
+
+    1. Remove Outliers
+
+    2. Fill with Average Outliers
+
+    3. Replace with Thresholds
+  
+  * Multivariate Outlier Analysis
+
+    1. Remove Outliers
+
+    2. Replace with Thresholds(not recommended)
+
+## Missing Data Analysis
+
+  * Quick Solution for Missing Value
+
+    1. Remove Outliers
+
+    2. Assigning a Value
+  
+  * Predictive Methods
+
+  * Show Missing Value on Plot
+
+  * Analysis of Missing Values with Dependent Value
+
+## Encoding Scaling
+
+  1. Label Encoder
+
+  2. One Hot Encoding
+
+  3. Rare Encoding
+
+## Feature Scaling
+
+  1. StandardScaler
+
+  2. RobustScaler
+
+  3. MinMaxScaler
+
+## Feature Extraction
+
+  1. Binary Features
+
+  2. Text Features
+
+  3. Regex Features
+
+  4. Date Features
+
+## Feature Interaction
+
+## ***Feature Engineering and Data Preprocessing Application***
+    
